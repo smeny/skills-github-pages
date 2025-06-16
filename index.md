@@ -1,3 +1,6 @@
 ---
-title: Welcome to my blog!
+title: Welcome to my updated blog!
 ---
+
+# Summary
+This is an exercise to test GitHub pages.
